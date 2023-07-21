@@ -1,0 +1,3 @@
+/home/yingyi/C++/01_base_knowledge/pointer/build/CMakeFiles/pointer.dir
+/home/yingyi/C++/01_base_knowledge/pointer/build/CMakeFiles/edit_cache.dir
+/home/yingyi/C++/01_base_knowledge/pointer/build/CMakeFiles/rebuild_cache.dir

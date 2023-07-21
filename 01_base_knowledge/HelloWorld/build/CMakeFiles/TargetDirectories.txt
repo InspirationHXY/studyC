@@ -1,0 +1,3 @@
+/home/yingyi/C++/01_base_knowledge/HelloWorld/build/CMakeFiles/HelloWorld.dir
+/home/yingyi/C++/01_base_knowledge/HelloWorld/build/CMakeFiles/edit_cache.dir
+/home/yingyi/C++/01_base_knowledge/HelloWorld/build/CMakeFiles/rebuild_cache.dir
